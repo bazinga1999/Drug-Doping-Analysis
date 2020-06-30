@@ -1,2 +1,2 @@
 # Drug-Doping-analysis
-bazinga1999/Drug-Doping-Analysis
+Analysing drugs banned by WADA and trying to provide alternative food items for ban causing food items.
